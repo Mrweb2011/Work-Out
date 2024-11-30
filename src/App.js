@@ -9,7 +9,6 @@ import { GiOwl } from "react-icons/gi";
 import { GrWordpress } from "react-icons/gr";
 import Image  from './components/men-CuWGShr9.png';
 
-
 function App() {
   return (
     <div className="App">
